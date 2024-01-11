@@ -23,5 +23,8 @@ public class EjerciciosClaseDam {
          System.out.println("Hello World2222!");
          System.out.println("Hello World!1105");
          System.out.println("Holiii World!");
+         System.out.println("Hello soyÀngelXD");
+         System.out.println("VaDeLokosXD");
+         System.out.println("Holii");
     } 
 }
